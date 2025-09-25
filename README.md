@@ -1,3 +1,3 @@
 # kshitiz-demo
 This is my first git repo
-Author - Kshitiz
+Author - Kshitiz Yadav
